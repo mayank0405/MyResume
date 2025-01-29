@@ -16,7 +16,7 @@ def load_lottie_url(url):
 
 lottie_coder_url = "https://drive.google.com/uc?id=1Tv5lkJob2RcYpXKFbNZOOeteqzstiDVa"
 lottie_contact_url = "https://drive.google.com/uc?id=149pcw-_hRrtHzl6kjtYXKPgPSkHeTU-9"
-image1 = Image.open("/Users/mayanksingh/Desktop/My Resume/Technologies.png")
+image1 = Image.open("Technologies.png")
 
 
 lottie_coder = load_lottie_url(lottie_coder_url)
